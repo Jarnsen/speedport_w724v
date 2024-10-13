@@ -1,4 +1,8 @@
 # speedport_w724v
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCXao3LZhkhYyGybSl3yCxwQ.svg?style=for-the-badge&logo=youtube&label=Subscribers)](https://www.youtube.com/channel/UCXao3LZhkhYyGybSl3yCxwQ)
+
+![YouTube Subscribers](https://badgen.net/youtube/channel/subscribers/UCXao3LZhkhYyGybSl3yCxwQ)
+
 ![Downloads v1.0.0](https://img.shields.io/github/downloads/Jarnsen/ha-xsense-component_test/v1.0.0.svg?style=for-the-badge&logo=github)
 
 ![Documentation](https://img.shields.io/badge/docs-excellent-brightgreen.svg)
