@@ -151,7 +151,7 @@ Dieses Projekt ist unter der [MIT-Lizenz](https://github.com/Jarnsen/ha-xsense-c
 
 [![Join Discord](https://img.shields.io/badge/Join%20Discord-Click%20Here-blue.svg?style=for-the-badge&logo=discord)](https://discord.gg/yourinvitecode)
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Subscribe-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCXao3LZhkhYyGybSl3yCxwQ)
-[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=yourvideoid)
+[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red.svg?logo=youtube)](https://www.youtube.com/watch?v=yourvideoid)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE.svg?style=for-the-badge&logo=twitter)
 ![GitHub Followers](https://img.shields.io/github/followers/Jarnsen.svg?style=for-the-badge&logo=github)
 
