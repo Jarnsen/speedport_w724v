@@ -1,5 +1,5 @@
 # speedport_w724v
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCXao3LZhkhYyGybSl3yCxwQ.svg?style=for-the-badge&logo=youtube&label=Subscribers)](https://www.youtube.com/channel/UCXao3LZhkhYyGybSl3yCxwQ)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCXao3LZhkhYyGybSl3yCxwQ.svg?style=plastic&logo=youtube&label=Subscribers)](https://www.youtube.com/channel/UCXao3LZhkhYyGybSl3yCxwQ)
 
 ![YouTube Subscribers](https://badgen.net/youtube/channel/subscribers/UCXao3LZhkhYyGybSl3yCxwQ)
 
